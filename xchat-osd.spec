@@ -10,6 +10,7 @@ URL: http://www.dmo.ca/projects/xchat-hacks/osd.pl
 Source0:osd.pl
 License: GPL
 Group:   Networking/IRC
+BuildRoot: %{_tmppath}/%{name}-buildroot
 Prefix: %{_prefix}
 Requires:xchat, perl-X-Osd, xchat-perl
 BuildArch: noarch
