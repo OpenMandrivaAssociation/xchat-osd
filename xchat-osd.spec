@@ -1,6 +1,6 @@
 %define name xchat-osd
 %define version 1.1
-%define release %mkrel 5
+%define release %mkrel 6
 
 Summary: An osd plugin for xchat
 Name: %{name}
