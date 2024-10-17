@@ -6,7 +6,7 @@ Summary: An osd plugin for xchat
 Name: %{name}
 Version: %{version}
 Release: %{release}
-URL: http://www.dmo.ca/projects/xchat-hacks/osd.pl
+URL: https://www.dmo.ca/projects/xchat-hacks/osd.pl
 Source0: osd.pl
 License: GPL
 Group: Networking/IRC
